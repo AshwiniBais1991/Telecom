@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.telecom.service.impl&apos; to &apos;com.telecom.service&apos;&#x0D;&#x0A;- Original project: &apos;Telecom&apos;&#x0D;&#x0A;- Original element: &apos;Telecom/src/main/java/com.telecom.service.impl&apos;&#x0D;&#x0A;- Renamed element: &apos;Telecom/src/main/java/com.telecom.service&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.telecom.service.impl&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.telecom.service.impl" name="com.telecom.service" qualified="false" references="true" stamp="1696753328816" textual="false" version="1.0"/>
+</session>
